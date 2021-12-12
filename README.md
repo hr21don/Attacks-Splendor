@@ -80,5 +80,6 @@ Here is an example of what this program should be returning:
 
 
 ## Resources
-MD5Decrypt.net(2021).https://md5decrypt.net/en/#answer. Date Accessed: 12/12/21
+MD5Decrypt.net(2021).https://bit.ly/3oOAjVM. Date Accessed: 12/12/21
 SurajKumar(2018).https://webkul.com/blog/decrypting-md5/. Date Accessed:12/12/21  
+Col.Shrapnel(2021).https://web.archive.org/web/20100730040942/https://stackoverflow.com/questions/2768248/is-md5-really-that-bad. Date Accessed: 12/12/21
