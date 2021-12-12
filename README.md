@@ -13,6 +13,7 @@ We create a database (mapped) between the original string and the md5 hash key f
 
 Then, at last, we will have a database of all the possible strings and their relative hashed keys.
 
+For instance, consider the table below:
 
 | hash_key	| original_string|
 |-------- | --------------|
@@ -26,6 +27,13 @@ Then, at last, we will have a database of all the possible strings and their rel
 | babb564668e27ce28f3a3c64e3dc0d0b	| cat01         |
 | e00f71ce2f129eff14d93f4fcf2169c5  | dogcat@1920   |
 | 2962fa06ab6b807c54f2aeafccf5f67a	| loveme99      |
+
+Now, maintaining this mapped database carries problems of its own with regards to computation and storage. So why not use 
+
+## Things to try for yourself
+
+ so why not use this 
+Now, you can lookup any particular hash key to decrypt. 
 
 ## How are these hashes broken down in the real world?
 
