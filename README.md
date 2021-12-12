@@ -30,16 +30,11 @@ For instance, consider the table below:
 
 If we create a database of all possible original string by permutating their character sequence. Then finally, we will have the hash key of every string. 
 
+****************************************************************************************************************
 ## Things to try for yourself || Based on the same technique 
-
 ****************************************************************************************************************
 So why not use this online md5 decrypting website for the table above and  try decrypt a few hask keys yourself! 
-****************************************************************************************************************
-
 https://md5decrypt.net/en/#answer
-
- so why not use this 
-Now, you can lookup any particular hash key to decrypt. 
 
 ## How are these hashes broken down in the real world?
 
