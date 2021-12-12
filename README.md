@@ -41,6 +41,8 @@ A brute force attack occurs when malicious actors use trial and error to crack p
 * It's a simple yet reliable tactic for gaining unauthorized access to individual accounts and organizations’ systems and networks.
 * The hacker tries multiple usernames and passwords, often using a computer to test a wide range of combinations, until they find the correct login information.
 
+## Reverse Brute Force
 
+A reverse brute force attack reverses the attack strategy by starting with a known password. 
 
 
