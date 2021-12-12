@@ -31,12 +31,9 @@ For instance, consider the table below:
 If we create a database of all possible original string by permutating their character sequence. Then finally, we will have the hash key of every string. 
 
 ****************************************************************************************************************
-## Things to try for yourself || Based on the same technique 
+## Things to try for yourself || Based on the same technique || Linked provided in Resources
 ****************************************************************************************************************
 So why not use this online md5 decrypting website for the table above and  try decrypt a few hask keys yourself! 
-
-## Resources
-MD5Decrypt.net(2021).https://md5decrypt.net/en/#answer. Date Accessed: 12/12/21
 
 ## How are these hashes broken down in the real world?
 
@@ -52,8 +49,36 @@ A brute force attack occurs when malicious actors use trial and error to crack p
 * It's a simple yet reliable tactic for gaining unauthorized access to individual accounts and organizations’ systems and networks.
 * The hacker tries multiple usernames and passwords, often using a computer to test a wide range of combinations, until they find the correct login information.
 
-## Reverse Brute Force
+## What is Reverse Brute Force
 
 A reverse brute force attack reverses the attack strategy by starting with a known password. 
 
+## Getting Started
 
+Clone repo from my github page
+
+## Run the following commands
+
+```
+python Bruteforceattack.py
+```
+
+## Paste your md5 here
+
+```
+add md5
+```
+
+## Hit Enter and Enjoy!
+
+## Testing
+
+Here is an example of what this program should be returning:
+
+<img width="906" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145726616-d62b724c-6eb3-4523-9aac-7cd5e196c646.PNG">
+
+
+
+## Resources
+MD5Decrypt.net(2021).https://md5decrypt.net/en/#answer. Date Accessed: 12/12/21
+SurajKumar(2018).https://webkul.com/blog/decrypting-md5/. Date Accessed:12/12/21  
