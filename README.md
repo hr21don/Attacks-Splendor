@@ -7,7 +7,7 @@ In this tutorial, we will look at a simple appraoch to get back the original str
 ## So.. how can we decrypt the md5 hashes?
 MD5 always generates the same hash key for a given input string.
 
-How to solve this?
+Lets see?
 
 We create a database (mapped) between the original string and the md5 hash key for all possible characters of the desired length of string and their permutations. 
 
