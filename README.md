@@ -75,7 +75,7 @@ add md5
 
 Here is an example of what this program should be returning:
 
-<img width="906" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145726616-d62b724c-6eb3-4523-9aac-7cd5e196c646.PNG">
+<img width="358" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145726744-52f9efa6-1820-4482-b976-108f9f3e33db.PNG">
 
 
 
