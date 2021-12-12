@@ -13,6 +13,14 @@ We create a database (mapped) between the original string and the md5 hash key f
 
 Then, at last, we will have a database of all the possible strings and their relative hashed keys.
 
+
+
+| hash_key	| original_string|
+|-------- | --------------|
+| 02ffa6505a9717c36292cd9bf76972fc	| qwerty@12345  |
+| 6d0952a65f2fcf9fa553a8956414e596  |	md5decrypt    |
+| f68e2a0caa1d7bc2d30ddcb5db33e9d4	|simplep@ssw0rd |
+
 ## How are these hashes broken down in the real world?
 
 Most hashes are broken in the real world using dictionary attacks like John The Ripper and Rainbow Crack.
