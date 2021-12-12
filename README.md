@@ -75,7 +75,7 @@ add md5
 
 In this example, the program executed and successfully returned the password 'new1' within 38s. 
 
-<img width="401" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145726910-cac8388e-741f-483c-8ef4-cb466d559b68.PNG">
+<img width="381" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145726987-3e3da530-f394-4843-b1d7-5562fa32a661.PNG">
 
 
 ## Resources
