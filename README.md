@@ -73,13 +73,13 @@ add md5
 
 ## Testing
 
-Here is an example of what this program should be returning:
+In this example, the program executed and successfully returned the password 'new1' within 38s. 
 
-<img width="358" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145726744-52f9efa6-1820-4482-b976-108f9f3e33db.PNG">
-
+<img width="401" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145726910-cac8388e-741f-483c-8ef4-cb466d559b68.PNG">
 
 
 ## Resources
 MD5Decrypt.net(2021).https://bit.ly/3oOAjVM. Date Accessed: 12/12/21
 SurajKumar(2018).https://webkul.com/blog/decrypting-md5/. Date Accessed:12/12/21  
 Col.Shrapnel(2021).https://web.archive.org/web/20100730040942/https://stackoverflow.com/questions/2768248/is-md5-really-that-bad. Date Accessed: 12/12/21
+Charles R. Severance(2021).https://www.wa4e.com/assn/crack/. Date Accessed:12/12/21
