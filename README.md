@@ -17,8 +17,15 @@ Then, at last, we will have a database of all the possible strings and their rel
 | hash_key	| original_string|
 |-------- | --------------|
 | 02ffa6505a9717c36292cd9bf76972fc	| qwerty@12345  |
-| 6d0952a65f2fcf9fa553a8956414e596  |	md5decrypt    |
-| f68e2a0caa1d7bc2d30ddcb5db33e9d4	|simplep@ssw0rd |
+| e48d951cfe51481996d8d464054f0305  |	1qaz2wsx      |
+| f68e2a0caa1d7bc2d30ddcb5db33e9d4	| simplep@ssw0rd|
+| d214619d0fe4908521715650a9cd515d	| newyork911    |
+| bf9fa62a42004ff20576e9af0df2aca4	| g8882684832   |
+| caefb5c2bb419fdd69cdfd8d47979c4f  | 1sexgod       |
+| 8c32e5048bc4fbfc5dc53c89a36c0812	| ytrewq        |
+| babb564668e27ce28f3a3c64e3dc0d0b	| cat01         |
+| e00f71ce2f129eff14d93f4fcf2169c5  | dogcat@1920   |
+| 2962fa06ab6b807c54f2aeafccf5f67a	| loveme99      |
 
 ## How are these hashes broken down in the real world?
 
