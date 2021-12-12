@@ -36,6 +36,11 @@ Most hashes are broken in the real world using dictionary attacks like John The 
 
 ## What is brute force?
 
-A brute force attack occurs when malicious actors use trial and error to crack passwords, login credentials, and encryption keys. It is a simple yet reliable tactic for gaining unauthorized access to individual accounts and organizations’ systems and networks. The hacker tries multiple usernames and passwords, often using a computer to test a wide range of combinations, until they find the correct login information.
+A brute force attack occurs when malicious actors use trial and error to crack passwords, login credentials, and encryption keys.
+
+* It's a simple yet reliable tactic for gaining unauthorized access to individual accounts and organizations’ systems and networks.
+* The hacker tries multiple usernames and passwords, often using a computer to test a wide range of combinations, until they find the correct login information.
+
+
 
 
