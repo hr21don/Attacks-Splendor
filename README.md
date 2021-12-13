@@ -4,6 +4,7 @@ We know that MD5 is a one-way digest algorithm which means that we can't get the
 
 In this tutorial, we will look at a simple approach to get back the original string after its been hashed using reverse lookup/brute force. 
 
+***********
 ## So how can we decrypt the md5 hashes?
 MD5 always generates the same hash key for a given input string.
 
@@ -31,7 +32,7 @@ For instance, consider the table below:
 
 
 ****************************************************************************************************************
-## Things to try for yourself || Based on the same technique || Linked provided in Resources
+## Things to try for yourself || Based on the same technique || MD5 decryption Link provided in Resources
 ****************************************************************************************************************
 So why not use this online md5 decrypting website for the table above and  try decrypt a few hask keys yourself! 
 
