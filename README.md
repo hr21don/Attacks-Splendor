@@ -30,11 +30,10 @@ For instance, consider the table below:
 | e00f71ce2f129eff14d93f4fcf2169c5  | dogcat@1920   |
 | 2962fa06ab6b807c54f2aeafccf5f67a	| loveme99      |
 
-
-****************************************************************************************************************
 ## Things to try for yourself || Based on the same technique || MD5 decryption Link provided in Resources
-****************************************************************************************************************
+
 So why not use this online md5 decrypting website for the table above and  try decrypt a few hask keys yourself! 
+****************************************************************************************************************
 
 ## How are these hashes broken down in the real world?
 
