@@ -9,7 +9,7 @@ In this tutorial, we will look at a simple approach to get back the original str
 MD5 always generates the same hash key for a given input string.
 
 
-## Lets start!
+## Approach #1 
 
 We create a database (mapped) between the original string and the md5 hash key for all possible characters of the desired length of string and their permutations. 
 
