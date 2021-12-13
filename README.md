@@ -53,6 +53,8 @@ A brute force attack occurs when malicious actors use trial and error to crack p
 
 A reverse brute force attack reverses the attack strategy by starting with a known password. 
 
+***********
+
 ## Getting Started
 
 Clone repo from my github page
@@ -70,6 +72,8 @@ add md5
 ```
 
 ## Hit Enter and Enjoy!
+
+***********
 
 ## Testing
 
